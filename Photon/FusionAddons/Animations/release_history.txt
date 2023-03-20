@@ -1,0 +1,6 @@
+Photon Fusion Animation Controller Addon - Release History
+
+Last tested with Fusion SDK 1.1.4 Build 604
+
+Version 1.1.0
+- Initial release.
